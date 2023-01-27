@@ -6,6 +6,9 @@ const NavContainer = styled.div`
     display:flex;
     color:white;
     justify-content:center;
+    position:fixed;
+    top:0;
+    right:0;
 `;
 
 const ListItem = styled.li`
