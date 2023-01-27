@@ -1,42 +1,5 @@
 import React from "react";
-import styled from "styled-components";
-import { ContainerDiv } from "../utilities/styles";
-
-const AboutHeading= styled.h2`
-    font-size:20px;
-    text-transform:uppercase;
-`;
-
-const HorizontalLine = styled.hr`
-    width:100%;
-    height:5px;
-    background:blue;
-`;
-
-const AboutParagraph = styled.p`
-    
-`;
-
-const PersonalInfoContainer = styled.div`
-    display:flex;
-    flex-direction:row;
-    margin:1px;
-`;
-
-const PersonalInfoParagraph = styled.p`
-    width:50%;
-    margin:3px;
-`;
-
-const SpanHeading = styled.span`
-    text-transform:uppercase;
-    font-weight:bold;
-`;
-
-const SpanText = styled.span`
-
-`;
-
+import {ContainerDiv,AboutHeading,HorizontalLine,AboutParagraph,PersonalInfoContainer,PersonalInfoParagraph,SpanHeading,SpanText} from "../utilities/styles";
 
 function About (){
     return(
