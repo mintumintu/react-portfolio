@@ -11,6 +11,11 @@ function Education(){
             <AboutParagraph>
                 Here are the details of my education
             </AboutParagraph>
+            <PersonalInfoContainer>
+                <PersonalInfoParagraph>
+                    
+                </PersonalInfoParagraph>
+            </PersonalInfoContainer>
         </ContainerDiv>
     );
 }
