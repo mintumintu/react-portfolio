@@ -8,6 +8,7 @@ const ProfileDiv = styled.div`
     background:white;
     margin-left:100px;
     margin-top:11px;
+    border-radius:10px;
 `;
 
 
