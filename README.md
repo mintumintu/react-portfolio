@@ -1,4 +1,5 @@
-<h1>A portfolio website </h1>
+<h1>A portfolio website </h1><span>Made with <b>React</b> and <b>Styled-Components</b><span>
 
 
-![image](https://user-images.githubusercontent.com/41105213/215075713-e7db4d71-c714-431a-9779-06f8cb879725.png)
+![image](https://user-images.githubusercontent.com/41105213/215081791-277b2586-3bd9-49b9-ac04-44fd3d847f77.png)
+
